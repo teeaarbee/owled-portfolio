@@ -12,9 +12,9 @@ module.exports = {
   author: 'Naveen Kumar',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'Portfolio site of Owled Media',
+  socialImageTitle: 'Owled🦉',
+  socialImageSubtitle: 'By MadVortex',
 
   // social usernames (optional)
   twitter: 'madvortex',
